@@ -5,8 +5,8 @@ include 'header.php';
 <center>
     <div class="main">
         <form action="insert.php" method="post" enctype="multipart/form-data" name="upload">
-            <h2> مـــوقع تســويـــقي</h2>
-            <img src="images/onlin-shop.png" alt="foto" width="440px"><br>
+            <h2>إضـــافه منتــج</h2>
+            <img src="images/add.jpg" alt="foto" width="440px"><br>
             <input type="text" name='name' placeholder="ادخـــل اســـم المنتـــج">
             <br>
             <input type="text" name='price' placeholder="ادخـــل سعـــر المنتـــج">
